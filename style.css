@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(233, 231, 230);
+}
+
+.container{
+    text-align: center;
+    display: block;
+    width: 500px;
+    height: 400px;
+    background-color: rgb(224, 229, 233);
+    margin: auto;
+    margin-top: 70px;
+    padding-top: 5rem;
+    box-shadow: 10px 5px 10px 15px rgb(178, 196, 190);
+    border-radius: 0.6rem;
+    
+    
+}
+h1{
+    margin-top: 1px;
+}
+input{
+    margin:0.4rem;
+    padding: 0.2rem
+}
+
+.btn{
+    
+    display: inline;
+    margin-top: 1rem;
+    margin-left: 0.9rem;
+}
+#output{
+    margin-top: 40px;
+    font-size: 50px;
+}
